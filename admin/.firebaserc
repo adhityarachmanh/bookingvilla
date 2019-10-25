@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "rizka-pi"
+  },
+  "targets": {
+    "rizka-pi": {
+      "hosting": {
+        "admin-rizka": [
+          "admin-rizka"
+        ]
+      }
+    }
+  }
+}
