@@ -1,6 +1,6 @@
 # Booking Villa
 
-Website Ini Di Buat Dengan React Js Untuk Website ini digunakan untuk pihak villa benteng portugis yang Belum Memiliki Website
+Website Ini Di Buat Dengan Vue JS Website ini digunakan untuk pihak villa benteng portugis yang Belum Memiliki Website
 . Pemiliki villa benteng portugis Adalah Rezka Anggi
 
 ### Link Website Client
